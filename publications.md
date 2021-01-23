@@ -2,7 +2,7 @@
 permalink: /publications/
 ---
 
-### Publications
+## Publications
 
 Although I'll try to keep this list up to date and complete with links to open access versions of my articles, please check out my [Google Scholar profile](https://scholar.google.es/citations?user=dBrsOCMAAAAJ&hl=en) in case of doubt.
 
