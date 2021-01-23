@@ -1,11 +1,4 @@
-``
+### About me
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I am a neuroscientist interested in cognition and motor functions. I recently completed my PhD with Albert Compte in the [Brain Circuits and Behavior lab](https://braincircuitsbehavior.org/) in Barcelona, where I worked on the role of NMDA receptors for working memory, and on the interaction of activity- and plasticity-based neural processes in prefrontal cortex. Before my PhD, I studied psychology and cognitive neuroscience, but soon became more and more interested in computational neuroscience and questions best answered by looking at neural circuits. Since 2020, I am a postdoc in [Alex Cayco Gajic's group](https://sites.google.com/view/caycogajic/home) at ENS Paris, where I study cerebellar population dynamics and cortico-cerebellar interactions.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/heikestein/heikestein.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
