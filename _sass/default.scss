@@ -45,8 +45,20 @@ table {
 Theme Styles
 *******************************************************************************/
 
-/* Style the links inside the navigation bar */
-nav a {
+nav {
+    margin: 0 auto;
+    padding: 0;
+    width: 75%;
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    overflow: hidden;
+}
+
+nav li a {
+  display: inline-block;
   float: left;
   color: #f2f2f2;
   text-align: left;
@@ -56,8 +68,13 @@ nav a {
   background: #212121;
 }
 
-nav li {
-  display: inline;
+nav li a:hover {
+    color: #FF5733;
+}
+
+navigation-wrapper {
+    background-color: #212121;
+    padding: 1px;
 }
 
 body {
