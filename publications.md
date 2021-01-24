@@ -1,8 +1,8 @@
 ---
 permalink: /publications/
----
 
 <script src="https://use.fontawesome.com/7574340811.js"></script>
+---
 
 ## Publications
 
