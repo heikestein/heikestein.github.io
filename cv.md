@@ -12,6 +12,7 @@ Here, you can download my academic CV [<i class="fa fa-file-text"></i>](https://
 
 ### Academic Jobs and Education
 
+| --- | --- |
 | 2020 – pres.: | Postdoc with Alex Cayco-Gajic, at ENS Paris<br/> 
 Projects: Cortico-cerebellar interactions during motor learning, population coding in cerebellar molecular layer interneurons |
 
@@ -25,6 +26,8 @@ Thesis “Synaptic and circuit mechanisms of working memory and their dysfunctio
 
 
 ### Courses and Summer Schools
+
+| --- | --- |
 
 | 2019: | MBL Methods in Computational Neuroscience, Woods Hole, MA |
 
