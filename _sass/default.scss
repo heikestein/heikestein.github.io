@@ -46,13 +46,15 @@ Theme Styles
 *******************************************************************************/
 
 /* Style the links inside the navigation bar */
-nav {
+nav a {
   float: left;
   color: #f2f2f2;
   text-align: left;
   padding: 20px 20px;
-  text-decoration: underline;
   font-size: 22px;
+}
+
+nav li {
   display: inline;
 }
 
