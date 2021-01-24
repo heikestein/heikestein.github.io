@@ -11,4 +11,4 @@ permalink: /contact/
 
 Physically (and in non-pandemic times), you can find me at the [Laboratoire de Neurosciences Cognitives & Computationnelles](https://lnc2.dec.ens.fr/en) at École Normale Supérieure, Paris.
 
-If you want to know more about my research, you can write me an email [<i class="fa fa-envelope"></i>](heike.stein@ens.psl.eu) or follow me on Twitter [<i class="fa fa-twitter-square"></i>](https://twitter.com/heikecstein).
+If you want to know more about my research, you can write me an email [<i class="fa fa-envelope"></i>](mailto:heike.stein@ens.psl.eu) or follow me on Twitter [<i class="fa fa-twitter-square"></i>](https://twitter.com/heikecstein).
