@@ -10,7 +10,7 @@ permalink: /publications/
 Please check out my [Google Scholar profile](https://scholar.google.es/citations?user=dBrsOCMAAAAJ&hl=en), or find below a list with links to original articles, OA versions, and shared code and data from the articles.
 
 
-## 2020
+### 2020
 
 **Stein, H.\***, Barbosa, J.\*, Rosa-Justicia, M., Prades, L., Morató, A., Galan-Gadea, A., Ariño, H., Martinez-Hernandez, E., Castro-Fornieles, J., Dalmau, J. & Compte, A.  Reduced serial dependence suggests deficits in synaptic potentiation in anti-NMDAR encephalitis and schizophrenia. *Nat Commun 11*, 4250 (2020). (\* equal contribution)
 [<i class="fa fa-lock-open fa-lg"></i>](https://doi.org/10.1038/s41467-020-18033-3) [<i class="fa fa-code fa-lg"></i>](https://github.com/comptelab/serialNMDA)
