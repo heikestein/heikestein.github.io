@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
-
 title: Heike Stein
 
-permalink: pretty
+sass:
+  sass_dir: _sass
+  style: compressed
