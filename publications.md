@@ -1,8 +1,8 @@
 ---
 permalink: /publications/
-
-<script src="https://use.fontawesome.com/7574340811.js"></script>
 ---
+
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
 
 ## Publications
 
