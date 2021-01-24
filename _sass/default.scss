@@ -22,6 +22,8 @@ time, mark, audio, video {
   border: 0;
   font: inherit;
   vertical-align: baseline;
+  direction: ltr;
+  text-align: justify;
 }
 
 /* HTML5 display-role reset for older browsers */
@@ -74,7 +76,6 @@ h1, h2, h3, h4, h5, h6 {
   color:#222222;
   font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
   letter-spacing: -1px;
-  text-align: left;
 }
 
 h1 {
