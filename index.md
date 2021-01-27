@@ -4,7 +4,7 @@ layout: default
 
 ## Disclaimer
 
-If you happen to come across this page in these very early days of its existence, please excuse the crappy layout etc - it's still pretty much being constructed. Yet I made sure the links are all working, so there's that!
+If you happen to come across this page in these very early days of its existence, please note that it's being constructed. Yet I made sure the links are all working, so there's that!
 
 ## About me
 
