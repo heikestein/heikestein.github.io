@@ -14,6 +14,9 @@ Here, you can download my academic CV [<i class="fa fa-file-text"></i>](https://
 
 ### Academic Jobs and Education
 
+
+<div class="cvtable">
+ 
 |  |  |
 | ---- | --- |
 | 2020 – pres. | Postdoc with Alex Cayco-Gajic, at ENS Paris<br/> Projects: Cortico-cerebellar interactions during motor learning, population coding in cerebellar molecular layer interneurons |
@@ -21,11 +24,16 @@ Here, you can download my academic CV [<i class="fa fa-file-text"></i>](https://
 | 2013 – 16 | MSc in Cognitive and Affective Neuroscience at Technische Universität Dresden |
 | 2009 – 13 | BSc in Psychology at Eberhard Karls Universität Tübingen |
 
+</div>
 
 ### Courses and Summer Schools
+
+<div class="cvtable">
 
 |  |  |
 | ---- | --- |
 | 2019 | MBL Methods in Computational Neuroscience, Woods Hole, MA |
 | 2017 | The Computational and Cognitive Neuroscience Summer School, NYU Shanghai |
 | 2017 | The Mathematics of Memory School, Centre de Recerca Matemàtica Barcelona |
+
+</div>
