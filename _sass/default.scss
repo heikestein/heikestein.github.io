@@ -274,10 +274,11 @@ hr {
   background: url('../images/bg_hr.png') repeat-x center;
 }
 
-table {
+.cvtable table {
   border: none;
   margin-bottom: 20px;
   text-align: left;
+  empty-cells: hide;
  }
 
 th {
