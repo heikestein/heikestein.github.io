@@ -10,6 +10,10 @@ permalink: /publications/
 
 Please check out my [Google Scholar profile](https://scholar.google.es/citations?user=dBrsOCMAAAAJ&hl=en), or find below a list with links to (paywalled) original articles <i class="fa fa-lock"></i>, OA versions <i class="fa fa-unlock"></i>, and shared code <i class="fa fa-terminal"></i> and data <i class="fa fa-table"></i> from the articles.
 
+### 2021
+
+Barbosa, J.\*, **Stein, H.\***, Summerfield, C., Soto-Faraco, S. & Hyafil, A. A practical guide for studying human behavior in the lab. *PsyArXiv* (2021) (\* equal contribution)
+[<i class="fa fa-unlock"></i>](https://doi.org/10.31234/osf.io/tcmvp)
 
 ### 2020
 
