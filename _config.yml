@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
 title: Heike Stein
+markdown: kramdown
 
 sass:
   sass_dir: _sass
