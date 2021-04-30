@@ -12,6 +12,9 @@ Please check out my [Google Scholar profile](https://scholar.google.es/citations
 
 ### 2021
 
+**Stein, H.\***, Barbosa, J.\*, Compte, A. Towards biologically constrained attractor models of schizophrenia. *PsyArXiv* (2021) (\* equal contribution)
+[<i class="fa fa-unlock"></i>](https://psyarxiv.com/uxg2a/)
+
 Barbosa, J.\*, **Stein, H.\***, Summerfield, C., Soto-Faraco, S. & Hyafil, A. A practical guide for studying human behavior in the lab. *PsyArXiv* (2021) (\* equal contribution)
 [<i class="fa fa-unlock"></i>](https://doi.org/10.31234/osf.io/tcmvp)
 
