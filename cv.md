@@ -4,6 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
+
 <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 
 ## Extensive version
@@ -15,7 +16,9 @@ Here, you can download my academic CV [<i class="fa fa-file-text"></i>](https://
 ### Academic Jobs and Education
 
 
+
 <div class="cvtable">
+ 
  
 |  |  |
 | ---- | --- |
