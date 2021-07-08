@@ -22,7 +22,6 @@
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
           {% include navigation.html %}
           <nav role="navigation" id="site-nav" class="topnav">
-            ###
 	    <ul>
 		{% for link in site.data.navigation %}
 			    {% if link.url contains 'http' %}
@@ -33,8 +32,7 @@
 			    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
 			{% endfor %}
 	    </ul>
-	</nav>
-        ###  
+	  </nav>
         </header>
     </div>
 
