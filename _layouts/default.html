@@ -19,18 +19,13 @@
         <header class="inner">
 
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-          <!-- <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2> -->
+          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
           <!-- {% include navigation.html %} -->
-          <nav role="navigation" id="site-nav" class="topnav">
+          <nav> <!--role="navigation" id="site-nav" class="topnav"> -->
 	    <ul>
 		{% for link in site.data.navigation %}
-			    {% if link.url contains 'http' %}
-				{% assign domain = '' %}
-				{% else %}
-				{% assign domain = site.github.url %}
-			    {% endif %}
-			    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
-			{% endfor %}
+		    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+		{% endfor %}
 	    </ul>
 	  </nav>
         </header>
