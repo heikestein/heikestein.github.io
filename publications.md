@@ -8,7 +8,7 @@ permalink: /publications/
 
 ## Publications
 
-Please check out my [Google Scholar profile](https://scholar.google.es/citations?user=dBrsOCMAAAAJ&hl=en), or find below a list with links to (paywalled) original articles <i class="fa fa-lock"></i>, OA versions <i class="fa fa-unlock"></i>, and shared code <i class="fa fa-terminal"></i> and data <i class="fa fa-table"></i> from the articles.
+Please check my [Google Scholar profile](https://scholar.google.es/citations?user=dBrsOCMAAAAJ&hl=en), or find below a list with links to published articles <i class="fa fa-lock"></i>, open-access versions <i class="fa fa-unlock"></i>, code <i class="fa fa-terminal"></i> and data <i class="fa fa-table"></i> from the articles.
 
 ### 2021
 
