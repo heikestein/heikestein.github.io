@@ -12,6 +12,8 @@ Please check out my [Google Scholar profile](https://scholar.google.es/citations
 
 ### 2021
 
+**Stein, H.\***. Why does the neocortex need the cerebellum for working memory? *The Journal of Neuroscience* (in press)
+
 **Stein, H.\***, Barbosa, J.\*, Compte, A. Towards biologically constrained attractor models of schizophrenia. *PsyArXiv* (2021) (\* equal contribution)
 [<i class="fa fa-unlock"></i>](https://psyarxiv.com/uxg2a/)
 
