@@ -61,7 +61,7 @@ I lead a group of talented trainees.
 
 <div class="team-member">
   <div class="team-member-photo">
-    <img src="/assets/img/jessica.JPG" alt="Portrait of Jessica Lau">
+    <img src="/assets/img/jessica.jpg" alt="Portrait of Jessica Lau">
   </div>
   <div class="team-member-bio">
     I am a Master’s student in Cognitive Science at ENS-PSL, in the cognitive modelling, neurotheory, and AI track. My research interests broadly focus on computational modelling of cognitive processes and behaviors, including decision-making, motor behaviors, and memory. Some of my previous research experiences have included investigating the role of dopamine in reinforcement learning models of reward-seeking behavior in mice, and exploring the role of social cognition in functional outcomes in clinical populations. In my current internship in the lab, I am adapting an unsupervised machine learning algorithm called Keypoint MoSeq for social behavioral modelling in mice. More precisely, I am extending the current algorithm, which relies on an autoregressive hidden markov model (AR-HMM), to capture interaction dynamics.
