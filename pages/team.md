@@ -17,7 +17,6 @@ I'm a computational neuroscientist interested in data-driven modeling of behavio
    </div>
 </div>
 
-I lead a group of talented trainees.
 
 <style>
   :root {
