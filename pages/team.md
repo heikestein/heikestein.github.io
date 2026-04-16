@@ -6,18 +6,63 @@ permalink: /team
 
 I lead a group of talented trainees.
 
+<style>
+  .team-member {
+    display: flex;
+    gap: 1.25rem;
+    align-items: flex-start;
+    margin: 1.5rem 0;
+  }
+
+  .team-member-photo {
+    flex: 0 0 33%;
+    max-width: 33%;
+  }
+
+  .team-member-photo img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .team-member-bio {
+    flex: 1 1 auto;
+  }
+
+  @media (max-width: 600px) {
+    .team-member {
+      flex-direction: column;
+    }
+
+    .team-member-photo {
+      max-width: 100%;
+    }
+  }
+</style>
 
 ### Sepehr Saeedpour
 # Master student (M2)
 
-![picture](https://heikestein.github.io/assets/img/sepehr.jpg)
-I am a Computational Neuroscience M.Sc. student at ENS-PSL. I am broadly interested in questions where abstract mathematics intersects with something recognizably alive. These days, I develop Gaussian Process state space models (GP-SSMs) to characterize the dynamics of head-direction circuits. These circuits integrate vestibular signals and visual landmark information to maintain a stable internal estimate of heading and the central question of my work is how these input streams interact to govern the accuracy, robustness, and reorientation of the population-level representation.
+<div class="team-member">
+  <div class="team-member-photo">
+    <img src="https://heikestein.github.io/assets/img/sepehr.jpg" alt="Sepehr Saeedpour">
+  </div>
+  <div class="team-member-bio">
+    I am a Computational Neuroscience M.Sc. student at ENS-PSL. I am broadly interested in questions where abstract mathematics intersects with something recognizably alive. These days, I develop Gaussian Process state space models (GP-SSMs) to characterize the dynamics of head-direction circuits. These circuits integrate vestibular signals and visual landmark information to maintain a stable internal estimate of heading and the central question of my work is how these input streams interact to govern the accuracy, robustness, and reorientation of the population-level representation.
+  </div>
+</div>
 
 ### Jessica Lau
 # Master student (M1)
 
-![picture](https://heikestein.github.io/assets/img/jessica.JPG)
-I am a Master’s student in Cognitive Science at ENS-PSL, in the cognitive modelling, neurotheory, and AI track. My research interests broadly focus on computational modelling of cognitive processes and behaviors, including decision-making, motor behaviors, and memory. Some of my previous research experiences have included investigating the role of dopamine in reinforcement learning models of reward-seeking behavior in mice, and exploring the role of social cognition in functional outcomes in clinical populations.  In my current internship in the lab, I am adapting an unsupervised machine learning algorithm called Keypoint MoSeq for social behavioral modelling in mice. More precisely, I am extending the current algorithm, which relies on an autoregressive hidden markov model (AR-HMM), to capture interaction dynamics.
+<div class="team-member">
+  <div class="team-member-photo">
+    <img src="https://heikestein.github.io/assets/img/jessica.JPG" alt="Jessica Lau">
+  </div>
+  <div class="team-member-bio">
+    I am a Master’s student in Cognitive Science at ENS-PSL, in the cognitive modelling, neurotheory, and AI track. My research interests broadly focus on computational modelling of cognitive processes and behaviors, including decision-making, motor behaviors, and memory. Some of my previous research experiences have included investigating the role of dopamine in reinforcement learning models of reward-seeking behavior in mice, and exploring the role of social cognition in functional outcomes in clinical populations. In my current internship in the lab, I am adapting an unsupervised machine learning algorithm called Keypoint MoSeq for social behavioral modelling in mice. More precisely, I am extending the current algorithm, which relies on an autoregressive hidden markov model (AR-HMM), to capture interaction dynamics.
+  </div>
+</div>
 
 ### Bennet Sakelaris
 # Postdoc
