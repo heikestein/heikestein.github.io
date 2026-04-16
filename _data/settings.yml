@@ -8,6 +8,7 @@ google-ID: ''
 
 menu:
 - {name: 'About',       url: 'about'}
+- {name: 'Team',        url: 'team'}
 - {name: 'Projects',    url: 'projects'}
 - {name: 'Papers',      url: 'papers'}
 - {name: 'CV',          url: 'cv'}
@@ -18,7 +19,6 @@ menu:
 social:
 - {icon: "google-scholar", link:   'https://scholar.google.com/citations?hl=en&user=dBrsOCMAAAAJ\'}
 - {icon: "github",         link:   'https://github.com/heikestein'}
-- {icon: 'twitter',        link:   'https://twitter.com/heikecstein'}
 
 # Customize site text
 pagination:
