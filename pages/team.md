@@ -8,7 +8,7 @@ I lead a group of talented trainees.
 
 <style>
   :root {
-    --team-breakpoint: 600px;
+    --team-photo-column-width: 33%;
   }
 
   .team-member {
@@ -19,8 +19,8 @@ I lead a group of talented trainees.
   }
 
   .team-member-photo {
-    flex: 0 0 33%;
-    max-width: 33%;
+    flex: 0 0 var(--team-photo-column-width);
+    max-width: var(--team-photo-column-width);
   }
 
   .team-member-photo img {
@@ -33,7 +33,7 @@ I lead a group of talented trainees.
     flex: 1 1 auto;
   }
 
-  @media (max-width: var(--team-breakpoint)) {
+  @media (max-width: 600px) {
     .team-member {
       flex-direction: column;
     }
