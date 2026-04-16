@@ -4,6 +4,19 @@ title: Team
 permalink: /team
 ---
 
+
+### Heike Stein
+#### Group leader
+
+<div class="team-member">
+  <div class="team-member-photo">
+    <img src="/assets/img/head.jpg" alt="Portrait of Heike Stein">
+  </div>
+  <div class="team-member-bio">
+I'm a computational neuroscientist interested in data-driven modeling of behavioral dynamics and its neural control. My long-term goal is to develop models that are useful for understanding neural computation in increasingly naturalistic contexts. Before starting as a [CNRS](https://www.cnrs.fr/fr) researcher at the Insititute for Intelligent Systems and Robotics ([ISIR](https://www.isir.upmc.fr/?lang=en)) at Sorbonne University, I was a postdoc in [Alex Cayco-Gajic's lab](https://caycogajiclab.github.io/) at Ecole Normale Supérieure in Paris, where I developed tools for large-scale neural data analysis and modeled locomotion in complex environments. I received my PhD from the Universitat de Barcelona; In [Albert Compte's lab](https://braincircuitsbehavior.org/), I studied the role of NMDA receptor hypofunction in working memory performance and trial history biases.
+   </div>
+</div>
+
 I lead a group of talented trainees.
 
 <style>
