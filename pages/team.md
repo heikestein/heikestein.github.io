@@ -1,6 +1,6 @@
+---
 layout: category
 title: Team
-category: team
 permalink: /team
 ---
 
