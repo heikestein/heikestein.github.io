@@ -41,7 +41,7 @@ I lead a group of talented trainees.
 </style>
 
 ### Sepehr Saeedpour
-# Master student (M2)
+#### Master student (M2)
 
 <div class="team-member">
   <div class="team-member-photo">
@@ -53,7 +53,7 @@ I lead a group of talented trainees.
 </div>
 
 ### Jessica Lau
-# Master student (M1)
+#### Master student (M1)
 
 <div class="team-member">
   <div class="team-member-photo">
@@ -65,4 +65,4 @@ I lead a group of talented trainees.
 </div>
 
 ### Bennet Sakelaris
-# Postdoc
+#### Postdoc
