@@ -4,6 +4,10 @@ title: Contact
 permalink: /contact
 ---
 
-I am working at the Institut des Systèmes Intelligents et Robotique ([ISIR](https://www.isir.upmc.fr/)), where I am part of the [ACIDE team](https://www.isir.upmc.fr/equipes/acide/) (which stands for embodied action, cognition, interaction and decicion). The lab is located at the Campus Pierre et Marie Curie of Sorbonne Université, 4 Place Jussieu, 75005 Paris.
+Our group is hosted by the Institut des Systèmes Intelligents et Robotique ([ISIR](https://www.isir.upmc.fr/)), where we are part of the [ACIDE team](https://www.isir.upmc.fr/equipes/acide/). ISIR is located at the Pierre et Marie Curie campus of Sorbonne Université, with the following address:
 
-Write me an [email](mailto:heike.c.stein@gmail.com) or follow me on [ex twitter](https://twitter.com/heikecstein) to get in touch about science.
+Pyramide - T55 \\
+4 Place Jussieu 65 \\
+75005 Paris.
+
+Write me an [email](mailto:heike.c.stein@gmail.com) to get in touch about science.
