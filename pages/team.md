@@ -82,3 +82,12 @@ I'm a computational neuroscientist interested in data-driven modeling of behavio
 
 ### Bennet Sakelaris
 #### Postdoc
+
+<div class="team-member">
+  <div class="team-member-photo">
+    <img src="/assets/img/bennet.jpg" alt="Portrait of Bennet Sakelaris">
+  </div>
+  <div class="team-member-bio">
+    I am a postdoctoral researcher working on data-driven modeling of neural activity. I am broadly interested in understanding how neural circuits generate behavior, learn from experience, and maintain stable representations in changing environments. Previously, I completed my PhD in Applied Mathematics at Northwestern University under the supervision of Hermann Riecke, where I studied a range of biological systems, including learning the olfactory system, transcriptional dynamics in yeast, and whole-brain activity in C. elegans.
+  </div>
+</div>
