@@ -14,6 +14,8 @@ permalink: /team
   </div>
   <div class="team-member-bio">
 I'm a computational neuroscientist interested in data-driven modeling of behavioral dynamics and its neural control. My long-term goal is to develop models that are useful for understanding neural computation in increasingly naturalistic contexts. Before starting as a <a href="https://www.cnrs.fr/fr">CNRS</a> researcher at the Institute for Intelligent Systems and Robotics (<a href="https://www.isir.upmc.fr/?lang=en">ISIR</a>) at Sorbonne Université, I was a postdoc in <a href="https://caycogajiclab.github.io/">Alex Cayco-Gajic's lab</a> at ENS, where I developed tools for large-scale neural data analysis and modeled locomotion in complex environments. During my PhD at Universitat de Barcelona in <a href="https://braincircuitsbehavior.org/">Albert Compte's lab</a>, I studied the role of NMDA receptor hypofunction in working memory performance and trial history biases.
+
+[Download CV  <i class="fa-regular fa-file"></i>](https://heikestein.github.io/assets/documents/CV.pdf)
    </div>
 </div>
 
