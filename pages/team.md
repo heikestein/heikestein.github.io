@@ -85,6 +85,10 @@ I'm a computational neuroscientist interested in data-driven modeling of behavio
 ### Saruhan Mete Gürbüz
 #### Master student (M2)
 
+### Pratitee Ghosh
+#### Master student (M1)
+
+
 -------------------------------------------------------------------------------------------
 
 # Alumni
