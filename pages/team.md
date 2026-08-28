@@ -87,7 +87,7 @@ I'm a computational neuroscientist interested in data-driven modeling of behavio
 
 -------------------------------------------------------------------------------------------
 
-## Alumni
+# Alumni
 
 ### Jessica Lau
 #### Master student (M1)
