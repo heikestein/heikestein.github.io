@@ -5,4 +5,6 @@ category: projects
 permalink: /projects
 ---
 
-Over my PhD and postdoc, I have explored a range of topics spanning attractor dynamics in working memory, computational psychiatry, novel dimensionality reduction techniques, and dynamical models of motor behavior. What all of these projects have in common is a strong focus on bridging brain activity with cognition and observable behavior. 
+In the lab, we are currently working on interpretable models of nonlinear dynamics, focusing on systems for motor and navigation behavior. It is our goal to develop data-driven models that bridge concepts from neural theory to high-dimensional data collected during complex and naturalistic behavior.
+
+In my work as a postdoc and PhD student, I have explored a range of topics spanning attractor dynamics in working memory, computational psychiatry, and novel dimensionality reduction techniques. 
