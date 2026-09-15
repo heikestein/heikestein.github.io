@@ -85,6 +85,15 @@ I'm a computational neuroscientist interested in data-driven modeling of behavio
 ### Saruhan Mete Gürbüz
 #### Master student (M2)
 
+<div class="team-member">
+  <div class="team-member-photo">
+    <img src="/assets/img/saruhan.jpg" alt="Portrait of Saruhan Mete Gürbüz">
+  </div>
+  <div class="team-member-bio">
+    I am a Computational Neuroscience M.Sc. student at Sorbonne Université with a computer engineering background. I am broadly interested in how neural dynamics generate behavior and how to infer their low-dimensional nature using machine learning. Now, I am studying the dynamics of primary motor cortex during naturalistic reaching using Gaussian Process State Space Models(GP-SSMs). Contrary to highly stereotyped reaches with imposed delay periods, naturalistic reaches have no clear trial structure or repeated conditions, and my work is on how single-trial latent dynamics relate to behavior.
+  </div>
+</div>
+
 ### Pratitee Ghosh
 #### Master student (M1)
 
