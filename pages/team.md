@@ -97,6 +97,15 @@ I'm a computational neuroscientist interested in data-driven modeling of behavio
 ### Pratitee Ghosh
 #### Master student (M1)
 
+<div class="team-member">
+  <div class="team-member-photo">
+    <img src="/assets/img/pratitee.jpg" alt="Portrait of Pratitee Ghosh">
+  </div>
+  <div class="team-member-bio">
+    I am a master's student on the Computational Neuroscience and AI track of the COG-SUP program, led jointly by Sorbonne Université and Université Paris Cité. My research interests broadly center around modeling neural population dynamics, particularly using dynamical systems approaches to infer their underlying low-rank structure. Previously, I modeled whole-brain dynamics with Hopf (Stuart-Landau) oscillators coupled through the structural connectome to investigate how these dynamics are disrupted as Alzheimer's disease progresses. Here in the lab, I am working on extending Keypoint MoSeq to reliably capture social behavioral syllables in mice. Building on my interest in dynamical systems, I leverage linear dynamical system models to capture interaction dynamics between animals.
+  </div>
+</div>
+
 
 -------------------------------------------------------------------------------------------
 
